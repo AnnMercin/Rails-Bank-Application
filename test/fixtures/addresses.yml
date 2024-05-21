@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  account: one
+  house_pin: MyString
+  street_name: MyString
+  country: MyString
+  pincode: MyString
+
+two:
+  account: two
+  house_pin: MyString
+  street_name: MyString
+  country: MyString
+  pincode: MyString
